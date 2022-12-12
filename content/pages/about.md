@@ -70,9 +70,11 @@ Guðrún Laufey Guðmundsdóttir
 
 ---
 
-Juliane Thiemann
+Juliane Tiemann
 
-University of Bergen Library
+[Digital Development](https://www.uib.no/en/digitaldevelopment) / University of Bergen Library
+
+Juliane Tiemann is the academic director of digital development at the University of Bergen Library. In her PhD thesis, she worked on syntactic variation in Old Norwegian and investigated factors responsible for the observed alternations. Her work also includes interdisciplinary research, combining linguistics and manuscrip studies. Further more, her research interests include aspects of materiality, digitization of archive material, and the studies of charters (she is leading several projects on the Old Norwegian charter material at the University of Bergen Library; see e.g. [The Seal project](https://www.uib.no/en/ub/157062/seal-project)).
 
 ---
 
